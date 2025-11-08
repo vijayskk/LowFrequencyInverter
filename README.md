@@ -7,7 +7,8 @@ The design employs an **H-bridge MOSFET topology** with a dedicated high-side/lo
 A microcontroller interface enables waveform generation via PWM, allowing flexible control and easy experimentation.
 
 The PCB layout provides proper power handling, safety mechanisms, external load switching, and auxiliary connectors.
-
+![3D](3d.png)
+![PCB](pcb.png)
 ---
 
 ## 2. **Key Features**
